@@ -1,0 +1,7 @@
+hello (1.0.0-0) stretch; urgency=medium
+
+  * Initial Packaging with dpkg-buildpackage
+  
+ -- aarti  <aarti@cyronics.com>  Fri, 31 May 2024 16:42:39 +0530
+
+

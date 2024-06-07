@@ -1,0 +1,9 @@
+Package: hello
+Version: 1.0.0-0
+Architecture: all
+Maintainer: Aarti Pawar <aarti@cyronics.com>
+Installed-Size: 6
+Depends: python3
+Section: devel
+Priority: optional
+Description: TESTING DEB FILE CREATION

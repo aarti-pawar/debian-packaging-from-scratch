@@ -1,0 +1,12 @@
+Source: hello
+Section: devel
+Priority: optional
+Maintainer: Aarti Pawar <aarti@cyronics.com>
+Build-Depends: debhelper (>=9)
+
+Package: hello
+Architecture: all
+Depends: python3
+Description: TESTING DEB FILE CREATION
+
+
